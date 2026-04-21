@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий: 
 ```bash
-git clone https://github.com/cbaran00ff/python-contact-book.git
+git clone https://github.com/cbaran00ff/python-calculator.git
 
 2. Запустите приложение: 
 python calculator.py
